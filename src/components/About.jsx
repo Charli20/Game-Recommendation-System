@@ -15,7 +15,7 @@ const About = () => {
         </div>
 
         <div className="bg-black/60 backdrop-blur-md px-12 py-10 rounded-2xl max-w-5xl">
-          <p className="text-2xl font-semibold mb-4">InsightCorp is an intelligent PC and mobile game recommendation system</p>
+          <p className="text-2xl font-semibold mb-4">InsightCorp is an intelligent Steam game recommendation system</p>
           <p className="text-gray-200 text-lg leading-relaxed">Designed to match players with the perfect games based on their preferences, moods, and play styles. Whether you're into high-octane action, immersive storytelling, or cozy simulations, InsightCorp curates a personalized list to make sure you never waste time picking the next game just dive in and play.</p>
         </div>
       </div>
